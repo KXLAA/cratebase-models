@@ -1,0 +1,8 @@
+beat_this @ https://github.com/CPJKU/beat_this/archive/b95c8ab0c58c2d9fcfd40508ae8dffbc05ac4f5c.zip
+einops==0.8.2
+numpy==2.5.3
+onnx==1.23.1
+onnxruntime==1.30.0
+rotary-embedding-torch==0.9.1
+torch==2.14.1
+torchaudio==2.11.0
